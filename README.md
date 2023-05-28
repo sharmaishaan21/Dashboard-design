@@ -1,7 +1,5 @@
 # React Admin Dashboard
 
-Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
+This is a React admin Dashboard Created using chart.js, material UI and ReactJS.
 
-Video: https://www.youtube.com/watch?v=wYpCWwD1oz0
-
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+You can set up the code in your local setup. Then use the command "npm install" to set up the dependencies on your setup and use the command "npm start" to run this application.
